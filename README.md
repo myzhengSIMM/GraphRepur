@@ -9,7 +9,6 @@ To install all dependencies, the version of Python must be <= 3.7. TensorFlow, n
 
 	$ pip install -r requirements.txt
 	
-To guarantee that you have the right package versions, you can use [docker](https://docs.docker.com/) to easily set up a virtual environment. See the Docker subsection below for more info.
 
 
 ### Files description
